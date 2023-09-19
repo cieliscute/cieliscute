@@ -5,12 +5,18 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=cieliscute&style=for-the-badge)  
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--
 <a href="https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github"/>
-</a>  
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute"/>
+  <img height=250 align="top" src="https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github"/>
 </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute">
+  <img height=250 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute"/>
+</a>
+-->
+<!--沒有對齊的版本-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute) 
 
 
 <!-- https://shields.io/docs/logos -->
@@ -67,11 +73,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-沒有對齊的版本
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute) 
--->
+
 
 <!-- 漸層太難調整了拔... ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&bg_color=33,FFA1F5,BC7AF9,F8FF95,A6FF96&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github&title_color=0C356A&text_color=FF9B9B&icon_color=279EFF) -->
 
