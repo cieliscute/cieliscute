@@ -1,12 +1,21 @@
 ### Hi there 👋 
 ### I'm kaiwei,you can call me weiwei
 
-
+<!-- ranking card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon)
+<!-- top langs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- no longer limited to 6 pinned repositories -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&)](https://cieliscute.github.io/2023HexSchoolLive-Week6/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6)](https://cieliscute.github.io/2023HexSchoolLive-Week6/)
+
+
+
+
+
 
 <!--
+(default)
 **cieliscute/cieliscute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
