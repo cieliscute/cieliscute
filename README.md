@@ -5,18 +5,14 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=cieliscute&style=for-the-badge)  
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- ranking card -->
-<!-- 漸層太難調整了拔... ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&bg_color=33,FFA1F5,BC7AF9,F8FF95,A6FF96&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github&title_color=0C356A&text_color=FF9B9B&icon_color=279EFF) -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github"/>
+<a href="https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute) 
+
 <!-- https://shields.io/docs/logos -->
 ## 💻 Langs & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,13 +32,22 @@
 ---
 <!-- no longer limited to 6 pinned repositories -->
 ## 💎 Recent Projects  
+<!--
+<a href="https://cieliscute.github.io/2023HexSchoolLive-Week6/">
+  <img height="" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&theme=rose" />
+</a>
+<a href="https://cieliscute.github.io/bs21d/">
+  <img height="" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=bs21d&show_owner=true&theme=rose" />
+</a>
+<a href="https://pinyiw0.github.io/project_SearchforMeow/">
+  <img height="" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=pinyiW0&repo=project_SearchforMeow&show_owner=true&theme=rose" />
+</a>
+-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&theme=rose)](https://cieliscute.github.io/2023HexSchoolLive-Week6/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=bs21d&show_owner=true&theme=rose)](https://cieliscute.github.io/bs21d/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinyiW0&repo=project_SearchforMeow&show_owner=true&theme=rose)](https://pinyiw0.github.io/project_SearchforMeow/)
-
-
 
 
 
@@ -61,3 +66,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+沒有對齊的版本
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute) 
+-->
+
+<!-- 漸層太難調整了拔... ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&bg_color=33,FFA1F5,BC7AF9,F8FF95,A6FF96&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github&title_color=0C356A&text_color=FF9B9B&icon_color=279EFF) -->
+
+
+
+
