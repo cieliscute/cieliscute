@@ -7,10 +7,17 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ranking card -->
 <!-- 漸層太難調整了拔... ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&bg_color=33,FFA1F5,BC7AF9,F8FF95,A6FF96&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github&title_color=0C356A&text_color=FF9B9B&icon_color=279EFF) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github)
-<!-- top langs  之後再用唄...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute)
--->  
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute" />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute) 
+<!-- https://shields.io/docs/logos -->
 ## 💻 Langs & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
