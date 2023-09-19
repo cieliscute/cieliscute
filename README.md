@@ -1,20 +1,39 @@
 ### Hi there 👋 
 ### I'm kaiwei,you can call me weiwei
-
+### Here is my github stats...
+---
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=cieliscute&style=for-the-badge)  
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ranking card -->
 <!-- 漸層太難調整了拔... ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&bg_color=33,FFA1F5,BC7AF9,F8FF95,A6FF96&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github&title_color=0C356A&text_color=FF9B9B&icon_color=279EFF) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon&custom_title=WeiWei's&nbsp;GitHub&nbsp;Stats&rank_icon=github)
----
 <!-- top langs  之後再用唄...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute)
--->
+-->  
+## 💻 Langs & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=grey)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=darkblue)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+## 🌱 I’m currently learning 
+![Vue](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 ---
 <!-- no longer limited to 6 pinned repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&theme=rose)](https://cieliscute.github.io/2023HexSchoolLive-Week6/)  
-
+## 💎 Recent Projects  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&theme=rose)](https://cieliscute.github.io/2023HexSchoolLive-Week6/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=bs21d&show_owner=true&theme=rose)](https://cieliscute.github.io/bs21d/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinyiW0&repo=project_SearchforMeow&show_owner=true&theme=rose)](https://pinyiw0.github.io/project_SearchforMeow/)
 
 
 
