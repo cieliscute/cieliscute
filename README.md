@@ -3,8 +3,10 @@
 
 <!-- ranking card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieliscute&show_icons=true&theme=neon)
+---
 <!-- top langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieliscute)](https://github.com/cieliscute)
+---
 <!-- no longer limited to 6 pinned repositories -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&)](https://cieliscute.github.io/2023HexSchoolLive-Week6/)
 
