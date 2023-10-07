@@ -34,6 +34,10 @@
 ## 🌱 I’m currently learning 
 ![Vue](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express&logoColor=white)
+
+## 🍮 Others
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ---
 <!-- no longer limited to 6 pinned repositories -->
