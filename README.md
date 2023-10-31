@@ -59,11 +59,16 @@
   <img height="" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=pinyiW0&repo=project_SearchforMeow&show_owner=true&theme=rose" />
 </a>
 -->
+<p align="center"><a href="https://cieliscute.github.io/2023HexSchoolLive-Week6/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&theme=rose" alt="Readme Card"></a></p>
+
+<p align="center"><a href="https://cieliscute.github.io/bs21d/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=bs21d&show_owner=true&theme=rose" alt="Readme Card"></a></p>
+
+<p align="center"><a href="https://pinyiw0.github.io/project_SearchforMeow/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pinyiW0&repo=project_SearchforMeow&show_owner=true&theme=rose"></a></p>
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=2023HexSchoolLive-Week6&show_owner=true&theme=rose)](https://cieliscute.github.io/2023HexSchoolLive-Week6/)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cieliscute&repo=bs21d&show_owner=true&theme=rose)](https://cieliscute.github.io/bs21d/)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinyiW0&repo=project_SearchforMeow&show_owner=true&theme=rose)](https://pinyiw0.github.io/project_SearchforMeow/)
+-->
 
 
 
