@@ -2,8 +2,10 @@
 ### I'm kaiwei,you can call me weiwei
 ### Here is my github stats...
 
-### 🦊 I also build a blog with docusaurus,which record something i've learned. 
-⇨ [My Note](https://blog.weisite.xyz)
+### 🦊 I also build a blog with docusaurus,which record something i've learned. ↲
+
+
+[==========📖My Note===========](https://blog.weisite.xyz) 
 ---
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=cieliscute&style=for-the-badge)  
